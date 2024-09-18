@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Practise.Controllers.ProductController",
+    "Method": "ReadAll",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
