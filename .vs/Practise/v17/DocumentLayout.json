@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\API\\Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\repository\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\repository\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\practise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\practise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs",
               "RelativeDocumentMoniker": "Practise\\Program.cs",
@@ -47,52 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\ProductRepo.cs",
               "RelativeDocumentMoniker": "Practise\\Repository\\ProductRepo.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\ProductRepo.cs",
               "RelativeToolTip": "Practise\\Repository\\ProductRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:48:28.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepo.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\IProductRepo.cs",
-              "RelativeDocumentMoniker": "Practise\\Repository\\IProductRepo.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\IProductRepo.cs",
-              "RelativeToolTip": "Practise\\Repository\\IProductRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:45:26.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Practise",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Practise.csproj",
-              "RelativeDocumentMoniker": "Practise\\Practise.csproj",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Practise.csproj",
-              "RelativeToolTip": "Practise\\Practise.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-18T16:44:40.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Practise\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Practise\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwDcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:40:24.162Z",
               "EditorCaption": ""

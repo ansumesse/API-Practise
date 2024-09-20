@@ -134,3 +134,4 @@ D:\Edu\BackEnd\API\Practise\Practise\obj\Debug\net8.0\refint\Practise.dll
 D:\Edu\BackEnd\API\Practise\Practise\obj\Debug\net8.0\Practise.pdb
 D:\Edu\BackEnd\API\Practise\Practise\obj\Debug\net8.0\Practise.genruntimeconfig.cache
 D:\Edu\BackEnd\API\Practise\Practise\obj\Debug\net8.0\ref\Practise.dll
+D:\Edu\BackEnd\API\Practise\Practise\obj\Debug\net8.0\Practise.sourcelink.json

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Practise.Data;
 using Practise.Models;
 
@@ -14,7 +15,9 @@ namespace Practise.Repository
         }
         public IEnumerable<Product> Get()
         {
-            return context.Products.ToList();
+            return context.Products
+                .AsNoTracking()
+                .ToList();
         }
 
         public Product GetById(int id)
@@ -30,7 +33,7 @@ namespace Practise.Repository
 
         public void Delete(int id)
         {
-            context.Remove(GetById);
+            context.Remove(GetById(id));
             context.SaveChanges();
         }
 
