@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\API\\Practise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,16 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\DTO\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "Practise\\DTO\\CategoryDTO.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\DTO\\CategoryDTO.cs*",
-              "RelativeToolTip": "Practise\\DTO\\CategoryDTO.cs*",
+              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "Practise\\DTO\\CategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T06:14:51.583Z",
@@ -63,12 +63,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "Practise\\Repository\\CategoryRepo.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\CategoryRepo.cs*",
-              "RelativeToolTip": "Practise\\Repository\\CategoryRepo.cs*",
+              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "Practise\\Repository\\CategoryRepo.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T05:48:14.951Z",
@@ -76,12 +76,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ICategoryRepo.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\ICategoryRepo.cs",
               "RelativeDocumentMoniker": "Practise\\Repository\\ICategoryRepo.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\ICategoryRepo.cs*",
-              "RelativeToolTip": "Practise\\Repository\\ICategoryRepo.cs*",
+              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Repository\\ICategoryRepo.cs",
+              "RelativeToolTip": "Practise\\Repository\\ICategoryRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T05:47:17.46Z",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Practise\\Controllers\\CategoryController.cs",
@@ -128,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs",
               "RelativeDocumentMoniker": "Practise\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs",
-              "RelativeToolTip": "Practise\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs*",
+              "RelativeToolTip": "Practise\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:57:54.293Z",
               "EditorCaption": ""
