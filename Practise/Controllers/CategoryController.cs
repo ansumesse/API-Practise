@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Practise.Repository;
 
@@ -6,6 +7,7 @@ namespace Practise.Controllers
 {
     [Route("[controller]")]
     [ApiController]
+   // [Authorize] error
     public class CategoryController : ControllerBase
     {
         private readonly ICategoryRepo categoryRepo;
