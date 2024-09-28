@@ -7,7 +7,7 @@ namespace Practise.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-   // [Authorize] error
+    [Authorize]
     public class CategoryController : ControllerBase
     {
         private readonly ICategoryRepo categoryRepo;
@@ -22,7 +22,7 @@ namespace Practise.Controllers
         {
             return Ok(categoryRepo.Get());
         }
-
+        
         [HttpGet("{id:int}")]
         public IActionResult Get(int id)
         {
