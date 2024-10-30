@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\API\\Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|solutionrelative:practise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17BCCC8B-1DB3-4466-BE21-40C23D494BAC}|Practise\\Practise.csproj|d:\\edu\\backend\\api\\practise\\practise\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,29 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs",
               "RelativeDocumentMoniker": "Practise\\Program.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Program.cs",
               "RelativeToolTip": "Practise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:57:54.293Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Practise\\Controllers\\CategoryController.cs",
@@ -56,20 +52,20 @@
               "RelativeToolTip": "Practise\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:26:04.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:26:04.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\appsettings.json",
               "RelativeDocumentMoniker": "Practise\\appsettings.json",
               "ToolTip": "D:\\Edu\\BackEnd\\API\\Practise\\Practise\\appsettings.json",
               "RelativeToolTip": "Practise\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T14:29:45.764Z"
+              "WhenOpened": "2024-09-21T14:29:45.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

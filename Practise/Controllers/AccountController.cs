@@ -72,7 +72,6 @@ namespace Practise.Controllers
                         var authSigninKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JWT:Secret"]!));
 
                         var token = new JwtSecurityToken(
-                            issuer: configuration["JWT:ValidIssuer"],
                             expires: DateTime.Now.AddHours(5),
                             claims: authClaims,
                             signingCredentials: new SigningCredentials(authSigninKey, SecurityAlgorithms.HmacSha256)
